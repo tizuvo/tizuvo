@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="1280" height="260" role="img" aria-label="Tizuvo — Fast websites, connected operations, and practical AI">
+  <defs>
+    <clipPath id="card-clip-light">
+      <rect x="1" y="1" width="1278" height="258" rx="16"/>
+    </clipPath>
+    <pattern id="dots-light" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="16" cy="16" r="1" fill="#DDD4C2" opacity="0.85"/>
+    </pattern>
+  </defs>
+
+  <!-- Base Warm Archival Paper Card -->
+  <rect x="1" y="1" width="1278" height="258" rx="16" fill="#F4F0E6" stroke="#DDD4C2" stroke-width="1"/>
+  <rect x="1" y="1" width="1278" height="258" rx="16" fill="url(#dots-light)" clip-path="url(#card-clip-light)"/>
+
+  <!-- Left Column: Brand Lockup & Kicker -->
+  <g transform="translate(52, 34) scale(0.18)">
+    <path d="M 35.5 26 L 144.25 26 L 128.94 50.5 L 69 50.5 L 66.81 47 L 63 47 L 90.95 111.29 L 74.38 137.81 L 36.42 50.5 L 22.38 47 Z" fill="#0E0D0A"/>
+    <path d="M 152.5 26 L 178 26 L 178 31.42 L 98.73 158.29 L 95 158.29 L 96.54 161.79 L 179.81 125.59 L 164.5 150.09 L 109.5 174 L 90.12 174 L 77.77 145.6 Z" fill="#785A28"/>
+  </g>
+  <text x="98" y="59" fill="#0E0D0A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="19" font-weight="700" letter-spacing="3.5">TIZUVO</text>
+  <circle cx="216" cy="52" r="3.5" fill="#785A28"/>
+  <text x="230" y="56" fill="#785A28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5" font-weight="600" letter-spacing="1.6">SENIOR DIGITAL DEVELOPMENT STUDIO</text>
+
+  <!-- Left Column: Headline -->
+  <text x="52" y="122" fill="#0E0D0A" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="33" font-weight="600" letter-spacing="-0.8">Fast websites, connected operations,</text>
+  <text x="52" y="164" fill="#785A28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif" font-size="33" font-weight="600" letter-spacing="-0.8">and practical AI.</text>
+
+  <!-- Left Column: Hairline + Subline -->
+  <line x1="52" y1="190" x2="668" y2="190" stroke="#DDD4C2" stroke-width="1"/>
+  <text x="52" y="218" fill="#665E51" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="400" letter-spacing="0.4">100 PageSpeed  ·  Strict CSP  ·  Full Code Ownership</text>
+
+  <!-- Right Column: Minimal Schematic Terminal Card -->
+  <rect x="772" y="42" width="456" height="176" rx="12" fill="#ECE6D8" stroke="#DDD4C2" stroke-width="1"/>
+  <line x1="772" y1="76" x2="1228" y2="76" stroke="#DDD4C2" stroke-width="1"/>
+  <circle cx="796" cy="59" r="4" fill="#D0C5B0"/>
+  <circle cx="812" cy="59" r="4" fill="#D0C5B0"/>
+  <circle cx="828" cy="59" r="4" fill="#D0C5B0"/>
+  <text x="1208" y="63" text-anchor="end" fill="#665E51" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">@tizuvo/audit</text>
+
+  <text x="796" y="110" fill="#0E0D0A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13.5" font-weight="500">
+    <tspan fill="#785A28">$</tspan> npx @tizuvo/audit tizuvo.com
+  </text>
+
+  <text x="796" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    <tspan fill="#665E51">OVERALL</tspan>
+    <tspan x="876" fill="#785A28" font-weight="700">100/100 (A+)</tspan>
+    <tspan x="1008" fill="#166534" font-weight="600">18 pass</tspan>
+  </text>
+
+  <!-- Terminal Metric Pills -->
+  <rect x="796" y="164" width="128" height="32" rx="6" fill="#F4F0E6" stroke="#DDD4C2" stroke-width="1"/>
+  <text x="860" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">
+    <tspan fill="#665E51">PERF </tspan><tspan fill="#0E0D0A" font-weight="600">100</tspan>
+  </text>
+
+  <rect x="936" y="164" width="128" height="32" rx="6" fill="#F4F0E6" stroke="#DDD4C2" stroke-width="1"/>
+  <text x="1000" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">
+    <tspan fill="#665E51">SEC </tspan><tspan fill="#0E0D0A" font-weight="600">100</tspan>
+  </text>
+
+  <rect x="1076" y="164" width="128" height="32" rx="6" fill="#F4F0E6" stroke="#DDD4C2" stroke-width="1"/>
+  <text x="1140" y="184" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11.5">
+    <tspan fill="#665E51">SEO </tspan><tspan fill="#0E0D0A" font-weight="600">100</tspan>
+  </text>
+</svg>

@@ -1,49 +1,42 @@
-<p align="left">
+<p align="center">
   <a href="https://tizuvo.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://tizuvo.com/assets/svg/tizuvo-lockup-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://tizuvo.com/assets/svg/tizuvo-lockup-light.svg" />
-      <img alt="Tizuvo" src="https://tizuvo.com/assets/svg/tizuvo-lockup-dark.svg" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+      <img alt="Tizuvo — Fast websites, connected operations, and practical AI" src="./assets/banner-dark.svg" width="100%" />
     </picture>
   </a>
 </p>
 
-**Fast websites, connected operations, and practical AI — built directly by senior developers.**
-
-[Website](https://tizuvo.com) · [Free 3-Second Audit](https://tizuvo.com/audit) · [Book a 30-Min Call](https://tizuvo.com/book) · [hello@tizuvo.com](mailto:hello@tizuvo.com)
+<p align="center">
+  <a href="https://tizuvo.com"><strong>tizuvo.com</strong></a> ·
+  <a href="https://tizuvo.com/audit">Free 3s Audit</a> ·
+  <a href="https://starter.tizuvo.com">Live Starter Demo</a> ·
+  <a href="https://tizuvo.com/book">Book a 30-Min Call</a> ·
+  <a href="mailto:hello@tizuvo.com">hello@tizuvo.com</a>
+</p>
 
 ---
 
-Tizuvo is a senior digital development studio partnering with founders and product teams to ship sub-second websites, automated business workflows, practical AI systems, and technical SEO — without agency bloat, fragile plugins, or vendor lock-in.
+### Open Source
 
-### Core Practices
+| Project | What it does | Try it |
+|---|---|---|
+| [**site-audit-cli**](https://github.com/tizuvo/site-audit-cli) | Zero-dependency Node.js CLI for 18 live performance, TLS/security, and SEO checks | `npx @tizuvo/audit tizuvo.com` · [npm](https://www.npmjs.com/package/@tizuvo/audit) |
+| [**zero-bloat-starter**](https://github.com/tizuvo/zero-bloat-starter) | 100/100 static & edge starter kit with strict CSP and `<4 KB` JS | [Live demo](https://starter.tizuvo.com) |
+| [**ai-ops-blueprints**](https://github.com/tizuvo/ai-ops-blueprints) | 3 importable n8n + human-in-the-loop AI workflows with spend caps | [View blueprints](https://github.com/tizuvo/ai-ops-blueprints) |
 
-| Practice | Focus |
-|---|---|
-| **Web Development** | Marketing sites, custom web apps, and client portals built for 100 Lighthouse scores and `<1s` loads. |
-| **Workflow Automation** | CRM, billing, forms, and internal tool integrations that eliminate manual handoffs. |
-| **AI Implementations** | Verifiable document triage, knowledge search, and support drafting with human-in-the-loop review. |
-| **Technical SEO** | Core Web Vitals, crawl architecture, internal linking, and structured data built into the codebase. |
-| **Care & Security** | Proactive updates, strict CSP and TLS hardening, uptime monitoring, and verified off-site backups. |
-| **Monthly Retainers** | Ongoing senior development capacity for new features, workflow iterations, and continuous site care. |
+### What We Build
 
-### Development Standards
-
-- **Performance** — Lean markup, self-hosted assets, zero third-party bloat, and zero layout shift.
-- **Security** — Strict Content Security Policy, TLS 1.3, zero inline scripts, and regular dependency audits.
-- **Accessibility** — High-contrast type, full keyboard navigation, semantic landmarks, and reduced-motion support.
-- **Ownership** — Clean, documented repositories and clear runbooks. You own 100% of the code.
-
-### Connected Stack
+Senior developers partnering with founders and product teams across **Web Development**, **Workflow Automation**, **AI Implementations**, **Technical SEO**, **Website Care & Security**, and **Monthly Retainers** — with zero vendor lock-in.
 
 `Next.js` · `React` · `WordPress` · `Shopify` · `Cloudflare` · `n8n` · `OpenAI` · `Stripe` · `GitHub`
 
-### How Engagements Run
-
-1. **Discovery & Fixed Scope** — Focused 30-minute call followed by a clear scope, timeline, and fixed-price or retainer proposal.
-2. **Build & Integrate** — Weekly reviewable increments wired directly into your existing stack, with staging links shared early.
-3. **Verify, Launch & Care** — Audited for devices, accessibility, Core Web Vitals, and security before cutover, with optional ongoing care.
-
 ---
 
-Building, automating, or fixing something? [Book a free 30-minute discovery call](https://tizuvo.com/book), run our [instant 3-second website audit](https://tizuvo.com/audit), or write to [hello@tizuvo.com](mailto:hello@tizuvo.com).
+<p align="center">
+  Building, automating, or fixing something?
+  <a href="https://tizuvo.com/book">Book a free 30-minute call</a> ·
+  <a href="https://tizuvo.com/audit">Run the instant audit</a> ·
+  <a href="mailto:hello@tizuvo.com">hello@tizuvo.com</a>
+</p>
