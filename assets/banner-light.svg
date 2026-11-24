@@ -44,7 +44,7 @@
   <text x="796" y="144" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
     <tspan fill="#665E51">OVERALL</tspan>
     <tspan x="876" fill="#785A28" font-weight="700">100/100 (A+)</tspan>
-    <tspan x="1008" fill="#166534" font-weight="600">18 pass</tspan>
+    <tspan x="1008" fill="#166534" font-weight="600">20 pass</tspan>
   </text>
 
   <!-- Terminal Metric Pills -->

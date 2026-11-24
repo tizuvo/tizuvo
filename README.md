@@ -22,7 +22,7 @@
 
 | Project | What it does | Try it |
 |---|---|---|
-| [**site-audit-cli**](https://github.com/tizuvo/site-audit-cli) | Zero-dependency Node.js CLI for 18 live performance, TLS/security, and SEO checks | `npx @tizuvo/audit tizuvo.com` · [npm](https://www.npmjs.com/package/@tizuvo/audit) |
+| [**site-audit-cli**](https://github.com/tizuvo/site-audit-cli) | Zero-dependency Node.js CLI for 20 live performance, TLS/security, and SEO checks | `npx @tizuvo/audit tizuvo.com` · [npm](https://www.npmjs.com/package/@tizuvo/audit) |
 | [**zero-bloat-starter**](https://github.com/tizuvo/zero-bloat-starter) | 100/100 static & edge starter kit with strict CSP and `<4 KB` JS | [Live demo](https://starter.tizuvo.com) |
 | [**ai-ops-blueprints**](https://github.com/tizuvo/ai-ops-blueprints) | 3 importable n8n + human-in-the-loop AI workflows with spend caps | [View blueprints](https://github.com/tizuvo/ai-ops-blueprints) |
 
