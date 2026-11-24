@@ -1,39 +1,49 @@
-# Tizuvo
+<p align="left">
+  <a href="https://tizuvo.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://tizuvo.com/assets/svg/tizuvo-lockup-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://tizuvo.com/assets/svg/tizuvo-lockup-light.svg" />
+      <img alt="Tizuvo" src="https://tizuvo.com/assets/svg/tizuvo-lockup-dark.svg" height="32" />
+    </picture>
+  </a>
+</p>
 
-**Websites, automation, and AI built to grow your business.**
+**Fast websites, connected operations, and practical AI — built directly by senior developers.**
 
-Tizuvo is a digital agency partnering with founders and product teams to ship faster websites, cut manual work, and turn search into a dependable channel — handled directly by senior engineers.
+[Website](https://tizuvo.com) · [Free 3-Second Audit](https://tizuvo.com/audit) · [Book a 30-Min Call](https://tizuvo.com/book) · [hello@tizuvo.com](mailto:hello@tizuvo.com)
 
-🌐 Website: [tizuvo.com](https://tizuvo.com)
-📧 Email: [hello@tizuvo.com](mailto:hello@tizuvo.com)
+---
 
-## What we do
+Tizuvo is a senior digital development studio partnering with founders and product teams to ship sub-second websites, automated business workflows, practical AI systems, and technical SEO — without agency bloat, fragile plugins, or vendor lock-in.
 
-- **Web Development** — Fast, accessible marketing sites, custom web apps, and client portals engineered to convert.
-- **Business & Workflow Automation** — CRM, billing, forms, and internal tools connected so leads, invoices, and alerts move automatically.
-- **AI Workflow Implementations** — Practical AI that saves hours every week: document triage, knowledge search, and support drafting with human review.
-- **Technical SEO** — Crawl fixes, Core Web Vitals, internal linking, and structured data so qualified buyers find you first.
-- **Website Care & Security** — Proactive updates, security hardening, uptime monitoring, verified backups, and fast support.
-- **Ongoing Retainers** — A dependable technical partner, every month.
+### Core Practices
 
-## Why Tizuvo
+| Practice | Focus |
+|---|---|
+| **Web Development** | Marketing sites, custom web apps, and client portals built for 100 Lighthouse scores and `<1s` loads. |
+| **Workflow Automation** | CRM, billing, forms, and internal tool integrations that eliminate manual handoffs. |
+| **AI Implementations** | Verifiable document triage, knowledge search, and support drafting with human-in-the-loop review. |
+| **Technical SEO** | Core Web Vitals, crawl architecture, internal linking, and structured data built into the codebase. |
+| **Care & Security** | Proactive updates, strict CSP and TLS hardening, uptime monitoring, and verified off-site backups. |
+| **Monthly Retainers** | Ongoing senior development capacity for new features, workflow iterations, and continuous site care. |
 
-- **100** PageSpeed score on our own builds
-- **<1s** page loads
-- **40%** typical reduction in manual ops work
-- **24h** response time on every inquiry
-- **0** vendor lock-in — you own the code
+### Development Standards
 
-## How we work
+- **Performance** — Lean markup, self-hosted assets, zero third-party bloat, and zero layout shift.
+- **Security** — Strict Content Security Policy, TLS 1.3, zero inline scripts, and regular dependency audits.
+- **Accessibility** — High-contrast type, full keyboard navigation, semantic landmarks, and reduced-motion support.
+- **Ownership** — Clean, documented repositories and clear runbooks. You own 100% of the code.
 
-1. **Discovery & Plan** — Goals and bottlenecks reviewed, fixed scope, timeline, and measurable success criteria agreed.
-2. **Build & Integrate** — Weekly, reviewable increments; clean code, existing tools connected.
-3. **Test & Launch** — Checked for devices, accessibility, Core Web Vitals, and security before cutover.
-4. **Care & Iterate** — Uptime monitoring, updates, search performance tracking, and continuous improvements.
+### Connected Stack
 
-## Work with us
+`Next.js` · `React` · `WordPress` · `Shopify` · `Cloudflare` · `n8n` · `OpenAI` · `Stripe` · `GitHub`
 
-We are now booking projects for 2027.
+### How Engagements Run
 
-📧 [hello@tizuvo.com](mailto:hello@tizuvo.com)
-🌐 [tizuvo.com](https://tizuvo.com)
+1. **Discovery & Fixed Scope** — Focused 30-minute call followed by a clear scope, timeline, and fixed-price or retainer proposal.
+2. **Build & Integrate** — Weekly reviewable increments wired directly into your existing stack, with staging links shared early.
+3. **Verify, Launch & Care** — Audited for devices, accessibility, Core Web Vitals, and security before cutover, with optional ongoing care.
+
+---
+
+Building, automating, or fixing something? [Book a free 30-minute discovery call](https://tizuvo.com/book), run our [instant 3-second website audit](https://tizuvo.com/audit), or write to [hello@tizuvo.com](mailto:hello@tizuvo.com).
